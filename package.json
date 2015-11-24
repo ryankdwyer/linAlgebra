@@ -1,0 +1,15 @@
+{
+  "name": "linalgebra",
+  "version": "1.0.0",
+  "description": "A simple npm module for basic linear algebra functions",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha main.test.js"
+  },
+  "author": "Ryan Dwyer",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4"
+  }
+}
